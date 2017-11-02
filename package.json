@@ -11,5 +11,15 @@
   ],
   "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
   "license": "MIT",
-  "keywords": ["react-app-rewired"]
+  "keywords": [
+    "react-app-rewired"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morulus/react-app-rewire-postcss-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/morulus/react-app-rewire-postcss-config/issues"
+  },
+  "homepage": "https://github.com/morulus/react-app-rewire-postcss-config#readme"
 }
